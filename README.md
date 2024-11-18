@@ -1,4 +1,4 @@
-# Traffic Crash Analysis and Prediction using Machine Learning - Incidents Data from Montgomery State in the US
+# Traffic Crash Analysis and Prediction using Machine Learning
 
 This project involves a comprehensive analysis of road traffic collisions in Maryland, USA, with the goal of understanding crash patterns and predicting various outcomes using machine learning models. By leveraging a dataset containing 97,000+ collision records, we applied advanced data cleaning, exploratory data analysis (EDA), and machine learning techniques to derive actionable insights for improving road safety.  
 
