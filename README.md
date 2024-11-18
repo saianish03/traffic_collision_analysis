@@ -11,8 +11,7 @@ This project involves a comprehensive analysis of road traffic collisions in Mar
 - [Key Findings](#key-findings)  
 - [Machine Learning Models](#machine-learning-models)  
 - [Results](#results)  
-- [Future Work](#future-work)  
-- [How to Run](#how-to-run)  
+- [Future Work](#future-work) 
 
 ---
 
@@ -22,7 +21,7 @@ Traffic accidents remain a critical global issue, causing significant loss of li
 ---
 
 ## Dataset  
-The dataset contains 97,458 records with 44 features, representing traffic collisions in Maryland. It was obtained from the Automated Crash Reporting System (ACRS). Key features include:  
+The dataset contains 97,458 records with 44 features, representing traffic collisions in Maryland. It was obtained from [Crash Reports - Incidents Data - Maryland, USA](https://data.montgomerycountymd.gov/Public-Safety/Crash-Reporting-Incidents-Data/bhju-22kf/about_data). Key features include:  
 - **Categorical**: Weather, Light Conditions, Collision Type, Driver Substance Abuse.  
 - **Numerical**: Distance, Mile Point, Latitude, Longitude.  
 
@@ -92,11 +91,3 @@ This project formulated six key problem statements:
 - **Feature Reduction**: Apply PCA, LDA, or Autoencoders to optimize feature sets.  
 - **External Data Integration**: Include weather data for improved predictions.  
 - **Time Series Forecasting**: Predict crash frequencies for proactive safety measures.  
-
----
-
-## How to Run  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/traffic-collision-analysis.git
-   cd traffic-collision-analysis 
